@@ -1,9 +1,14 @@
-img{
-    font-size: 00px;
-}
+a img{
+    font-size: 200px;
+    size: 100px;}
+    
 nav{
     margin-left: 60px;
 }
 .nav-item{
     font-size: 18px;
+    color: teal;
+}
+body{   
+    font-family: 'Open Sans';
 }
