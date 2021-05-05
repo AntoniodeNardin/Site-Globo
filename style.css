@@ -1,5 +1,7 @@
-a img{
-    
+
+.navbar-brand{
+    font-weight: 500;
+    margin-top: 0px;
 }
     
 nav{
@@ -9,7 +11,8 @@ nav{
     font-size: 18px;
     color: teal;
 }
-body{   
-    font-family: 'Open Sans';
+body a{   
+    font-family: 'Open Sans'; 
+    text-decoration: none;
 }
 
