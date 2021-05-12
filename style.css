@@ -19,6 +19,8 @@ body a{
 .coluna2{
     height: 300px;
     border-right: 1px solid rgba(0, 0, 0, 0.446);
+    border-left: 1px solid rgba(0, 0, 0, 0.446);
+
 }
 img:hover{
     -webkit-filter:grayscale(100%); /* Safari 6.0 - 9.0 */
