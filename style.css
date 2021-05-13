@@ -23,3 +23,7 @@ img:hover{
     -webkit-filter:grayscale(100%); 
     filter:grayscale(75%)
 }
+.container2{
+    margin-top: 50px;
+    
+}
