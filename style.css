@@ -24,6 +24,16 @@ body a{
     filter:grayscale(75%)
 }
 .container2{
-    margin-top: 50px;
-    
+    margin-top: 50px;    
+}
+.hr2{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.link-danger{
+    color: rgb(255, 0, 242);
 }
